@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Consolas';
+}
+
+h1 {
+    color: Blue;
+}
+h2 {
+    color: lightblue;
+}
+ol {
+    color: aqua;
+}
+i {
+    color: #80FFFF;
+}
+
+.heading {
+    border: solid 10px blue;
+    padding: 10px;
+    background-color: midnightblue;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center
+}
+
+.body {
+    border: solid 10px darkblue;
+    padding: 10px;
+    background-color: #000020;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center
+}
+
+.list {
+    border: solid 5px blue;
+    padding: 5px;
+    background-color: #000050;
+    margin: auto;
+    border-radius: 20px;
+    text-align: center
+}
+
+.navbar {
+    border: solid 10px midnightblue;
+    background-color: rgb(40, 40, 255);
+    border-radius: 20px;
+    text-align: center
+}
+
+a:link, a:visited {
+    color: white;
+}
